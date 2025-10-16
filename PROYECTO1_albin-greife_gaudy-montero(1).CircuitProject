@@ -215,7 +215,7 @@
 	<Pin PinId="5a300f7d-87ae-474c-b972-c66e51c97728" CircuitId="d0e4307d-4bff-4e4d-a9b5-69f1544275cb" PinType="Output" PinSide="Right" Name="q3" />
 	<Pin PinId="5a0f9985-fb43-4af3-85b4-90f3b5ee6567" CircuitId="d0e4307d-4bff-4e4d-a9b5-69f1544275cb" PinType="Output" PinSide="Right" Name="q7" />
 	<Pin PinId="76c2dc91-e1fd-430f-9362-25db43bc2eec" CircuitId="d0e4307d-4bff-4e4d-a9b5-69f1544275cb" Name="x12" />
-	<Pin PinId="f1169cd7-2ee3-4fa6-bb69-8ee40f4b2e47" CircuitId="d77be8d5-a675-4ec3-8d6a-75f5854c3a35" Name="x" JamNotation="4f" />
+	<Pin PinId="f1169cd7-2ee3-4fa6-bb69-8ee40f4b2e47" CircuitId="d77be8d5-a675-4ec3-8d6a-75f5854c3a35" Name="x" JamNotation="fig" />
 	<Pin PinId="16de85dd-a4d9-4adb-bebb-03b46e2a9259" CircuitId="d77be8d5-a675-4ec3-8d6a-75f5854c3a35" Name="c" JamNotation="C" />
 	<Pin PinId="2eade982-246f-4f34-bb5c-8e5b04daf3a7" CircuitId="3b68b58c-94b9-4ca6-8ada-4af8e2677342" Name="C" JamNotation="C" />
 	<Pin PinId="e4b83c7f-72c1-4828-ae30-3e87a14a65b4" CircuitId="3b68b58c-94b9-4ca6-8ada-4af8e2677342" PinSide="Bottom" Name="CLR" JamNotation="CLR" />
